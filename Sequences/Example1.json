@@ -1,0 +1,37 @@
+{
+    "testplan_info": [
+        {
+            "name": "Example1",
+            "description": "This is an example test.",
+            "type": "Example",
+            "version": 1.0,
+            "Test date": "2023-10-01"
+        }
+    ],
+    "steps": [
+        {
+            "step": 1,
+            "description": "Initialize the system.",
+            "expected_result": "System initialized successfully.",
+            "actual_result": "System initialized successfully.",
+            "status": "Passed",
+            "comments": "No issues encountered."
+        },
+        {
+            "step": 2,
+            "description": "Run the main function.",
+            "expected_result": "Function executed without errors.",
+            "actual_result": "Function executed with warnings.",
+            "status": "Failed",
+            "comments": "Warnings need to be addressed."
+        },
+        {
+            "step": 3,
+            "description": "Check the output.",
+            "expected_result": "Output matches expected results.",
+            "actual_result": "Output does not match expected results.",
+            "status": "Failed",
+            "comments": "Output needs to be corrected."
+        }
+    ]
+}
