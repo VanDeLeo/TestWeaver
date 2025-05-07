@@ -1,0 +1,10 @@
+{
+    "TestplanName": "Try",
+    "Date": "",
+    "TestSequence": {
+        "1": {
+            "TestName": "date",
+            "Script": "C:/Users/leoav/OneDrive/Documentos/Proyectos/TestWeaver/SequenceScripts/GetDate.py"
+        }
+    }
+}
